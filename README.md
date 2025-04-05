@@ -1,4 +1,5 @@
-#🛍️ Retail Data Analysis Project (Python + SQL Server)
+🛍️ Retail Data Analysis Project (Python + SQL Server)
+
 This project demonstrates a full-cycle data analysis pipeline using Python (Jupyter Notebook) and SQL Server Management Studio, centered around a retail dataset. It highlights my technical ability to extract, clean, load, and analyze real-world data using professional tools and best practices.
 
 🔍 Project Overview:
